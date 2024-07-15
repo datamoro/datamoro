@@ -1,4 +1,4 @@
-# Self-introduction with additional details
+# Hello, World!
 
 name = "Caio"
 
